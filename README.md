@@ -53,3 +53,4 @@ git push origin v1.0.0
 ```
 
 태그 push 시 CD 파이프라인이 자동으로 실행됩니다.
+gpg test
